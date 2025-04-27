@@ -1,1 +1,2 @@
 "Ini file di fitur-baru, sudah diedit di main juga setelah di merge." 
+"Tambahan baru di file2.txt" 
