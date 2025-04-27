@@ -1,1 +1,1 @@
-"Ini file pertama" 
+"Ini file pertama, sudah diedit di main." 
